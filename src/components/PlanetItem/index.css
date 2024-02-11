@@ -1,0 +1,19 @@
+.heading {
+  font-size: 30px;
+  font-weight: bold;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.description {
+  font-size: 14px;
+  font-weight: 300;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.planet-image {
+  height: 300px;
+  width: 100%;
+  text-align: center;
+  padding: 30px;
+}
